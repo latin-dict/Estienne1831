@@ -1,3 +1,3 @@
 ## Dictionary
 
-Source files of [Thesaurus Graecae linguae](https://latin-dict.github.io/dictionaries/Popma1865.html), Estienne (1831-1865).
+Source files of [Thesaurus Graecae linguae](https://latin-dict.github.io/dictionaries/Estienne1831.html), Estienne (1831-1865).
